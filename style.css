@@ -1,0 +1,71 @@
+@import url('https://v1.fontapi.ir/css/ParastooFD');
+body {
+    margin: 0;
+    padding: 0;
+}
+.cont-div {
+    text-align: center;
+    height: 133px;
+    background: linear-gradient(180deg, #0b068cd6, transparent);
+    margin-top: -1.5%;
+    padding: 2px 0px;
+}
+.item-nav {
+    display: inline;
+    margin: 20px 14%;
+    background: white;
+    padding: 3px 2%;
+    border-radius: 7px;
+    box-shadow: 1px 1px 7px #232f75;
+    cursor: pointer;
+    border: 1px solid #051c9d;
+}
+
+.cont-div-all {
+    display: inline
+}
+
+.card {
+    background: white;
+    border: 1px solid #ffffff;
+    box-shadow: 0 0 2px 2px #400095;
+    border-radius: 10px;
+    margin: 2%;
+}
+.ng-1{
+    background: #400095;
+    border: 1px solid #edebe8;
+    box-shadow: 0 0 6px 2px #400095;
+    border-radius: 10px;
+    margin: 2%;
+    padding: 3px;
+}
+.ng-img {
+    width: 28%;
+    float: left;
+    margin: 29px;
+    padding: 10px;
+    box-shadow: 0 0 2px 2px #400094;
+    border-radius: 10px;
+}
+.ng-form {
+    width: 50%;
+    padding: 4% 5%;
+}
+.form-control {
+    width: 100%;
+    background: #f0f0f0;
+    padding: 1%;
+    border-radius: 5px;
+    border: 1px solid silver;
+    box-shadow: 0px 1px 6px 0px silver;
+}
+.font-style {
+    font-family: Parastoo FD, sans-serif;
+}
+.sbqv {
+    padding: 5px 22px 5px 22px;
+}
+.ja {
+    margin: 30px;
+}
