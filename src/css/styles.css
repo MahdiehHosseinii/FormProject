@@ -13,14 +13,14 @@ body {
 }
 
 .item-nav {
-    display: inline;
-    margin: 20px 14%;
+    display: block;
     background: white;
-    padding: 3px 2%;
     border-radius: 7px;
     box-shadow: 1px 1px 7px #232f75;
     cursor: pointer;
     border: 1px solid #051c9d;
+    margin: 4px 0 4px 40px;
+    width: 100px;
 }
 
 .cont-div-all {
